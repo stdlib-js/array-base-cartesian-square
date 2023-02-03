@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cartesianSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cartesian-square@deno/mod.js';
+import cartesianSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cartesian-square@v0.0.2-deno/mod.js';
 ```
 
 #### cartesianSquare( x )
@@ -70,7 +70,7 @@ var out = cartesianSquare( [] );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import cartesianSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cartesian-square@deno/mod.js';
+import cartesianSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cartesian-square@v0.0.2-deno/mod.js';
 
 var x = linspace( 0, 5, 6 );
 
