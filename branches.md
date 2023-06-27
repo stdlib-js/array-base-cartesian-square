@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/cartesian-square"
-click B href "https://github.com/stdlib-js/array-base-cartesian-square/tree/main"
-click C href "https://github.com/stdlib-js/array-base-cartesian-square/tree/production"
-click D href "https://github.com/stdlib-js/array-base-cartesian-square/tree/esm"
-click E href "https://github.com/stdlib-js/array-base-cartesian-square/tree/deno"
-click F href "https://github.com/stdlib-js/array-base-cartesian-square/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/cartesian-square"
+%% click B href "https://github.com/stdlib-js/array-base-cartesian-square/tree/main"
+%% click C href "https://github.com/stdlib-js/array-base-cartesian-square/tree/production"
+%% click D href "https://github.com/stdlib-js/array-base-cartesian-square/tree/esm"
+%% click E href "https://github.com/stdlib-js/array-base-cartesian-square/tree/deno"
+%% click F href "https://github.com/stdlib-js/array-base-cartesian-square/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/array/base/cartesian-square
