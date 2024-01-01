@@ -20,7 +20,7 @@
 
 // MODULES //
 
-var bench = require( '@stdlib/bench' );
+var bench = require( '@stdlib/bench-harness' );
 var pow = require( '@stdlib/math-base-special-pow' );
 var filledBy = require( '@stdlib/array-base-filled-by' );
 var discreteUniform = require( '@stdlib/random-base-discrete-uniform' ).factory;
