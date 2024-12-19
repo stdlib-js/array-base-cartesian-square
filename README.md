@@ -115,6 +115,14 @@ var out = cartesianSquare( x );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-cartesian-square`][@stdlib/array/cartesian-square]</span><span class="delimiter">: </span><span class="description">return the Cartesian square.</span>
+-   <span class="package-name">[`@stdlib/array-base/cartesian-power`][@stdlib/array/base/cartesian-power]</span><span class="delimiter">: </span><span class="description">return the Cartesian power.</span>
+-   <span class="package-name">[`@stdlib/array-base/cartesian-product`][@stdlib/array/base/cartesian-product]</span><span class="delimiter">: </span><span class="description">return the Cartesian product.</span>
+
 </section>
 
 <!-- /.related -->
@@ -192,6 +200,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-cartesian-square/main/LICENSE
 
 [cartesian-product]: https://en.wikipedia.org/wiki/Cartesian_product
+
+<!-- <related-links> -->
+
+[@stdlib/array/cartesian-square]: https://github.com/stdlib-js/array-cartesian-square
+
+[@stdlib/array/base/cartesian-power]: https://github.com/stdlib-js/array-base-cartesian-power
+
+[@stdlib/array/base/cartesian-product]: https://github.com/stdlib-js/array-base-cartesian-product
+
+<!-- </related-links> -->
 
 </section>
 
